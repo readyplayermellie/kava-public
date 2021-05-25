@@ -88,5 +88,3 @@ sw.*
 
 # Vim swap files
 *.swp
-
-Arduino code/iothub_ll_telemetry_sample/iot_configs.h
